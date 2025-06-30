@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I'm currently a 4th semester student at VIA University College in Denmark<br><br>🧰 Tech stack:<br>    Languages: Java, Swift, Python, C#, SQL<br>    Tools & Frameworks: SwiftUI, .NET (ASP.NET Core), React, Express, FastAPI, Spring Boot, gRPC<br>    Databases: PostgreSQL, Firebase, MongoDB<br>    Dev Tools: Git, Docker, GitHub Actions, Azure DevOps<br>    Currently diving deeper into: ML Models, Full-Stack Dev with MERN stack<br><br>📫 Socials:<br>    Linkedin: https://www.linkedin.com/in/daniel-munteanu-523960253/
+🏫 I'm currently a 4th semester student at VIA University College in Denmark<br><br>🧰 Tech stack:<br>    Languages: Java, Swift, Python, C#, SQL<br>    Tools & Frameworks: SwiftUI, .NET (ASP.NET Core), React, Express, FastAPI, Spring Boot, gRPC<br>    Databases: PostgreSQL, Firebase, MongoDB<br>    Dev Tools: Git, Docker, GitHub Actions, Azure DevOps<br>    Currently diving deeper into: ML Models, Full-Stack Dev with MERN stack<br>
 
 
 ## 🌐 Socials:
