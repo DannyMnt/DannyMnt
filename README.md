@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I'm currently a 4th semester student at VIA University College in Denmark<br>
+🏫 I'm currently a 5th semester student at VIA University College in Denmark<br>
 
 
 ## 🌐 Socials:
